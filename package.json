@@ -1,0 +1,11 @@
+{
+    "name": "fm-typescript",
+    "license": "NOLICENSE",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^5.0.4"
+    },
+    "scripts": {
+        "dev": "tsc --watch --preserveWatchOutput"
+    }
+}
